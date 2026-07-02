@@ -2,6 +2,8 @@
 
 **Backend Engineer — Java & Spring Ecosystem**
 
+Backend engineer with strong foundation in **Java & Spring** ecosystem. I build reliable APIs, handle messaging at scale, and manage my own Linux homelab. Currently deepening security, messaging, and reverse proxy skills.
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=s-nugroho.s-nugroho" alt="visitors" />
 </p>
