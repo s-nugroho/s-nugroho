@@ -17,9 +17,9 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seftianhd&show_icons=true&theme=dark" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-nugroho&show_icons=true&theme=dark" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftianhd&layout=compact&theme=dark" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-nugroho&layout=compact&theme=dark" alt="top langs" />
 </p>
 
 ## 📫 Contact
